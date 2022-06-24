@@ -1,4 +1,6 @@
 ### Hi there 👋
+- 🌱 I’m currently learning DevOps
+- 💬 Ask me about Linux
 
 <!--
 **lubry/lubry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
